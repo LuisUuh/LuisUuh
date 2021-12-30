@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
 
 ## Github Stats :rocket:
 
@@ -24,4 +23,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/LuisUuh/LuisUuh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisUuh&theme=radical&layout=compact&langs_count=8" alt="Luis Uuh GitHub Stats" />
 </a>
-</div>
